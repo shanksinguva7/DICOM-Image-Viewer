@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# DICOM data (keep folder via data/.gitkeep; do not commit patient scans)
+data/*.dcm
+data/**/*.dcm
+
+# Generated output (optional: allow metadata.csv to be gitignored if you prefer)
+# output/metadata.csv
