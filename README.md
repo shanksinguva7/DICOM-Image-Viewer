@@ -9,18 +9,18 @@ On GitHub, everything is shown **from the repository root** (e.g. `python/`, `da
 ## Clone & project root
 
 ```bash
-git clone https://github.com/shanksinguva7/DICOM-Viewer.git
-cd DICOM-Viewer
+git clone https://github.com/shanksinguva7/DICOMViewer.git
+cd DICOMViewer
 ```
 
-All commands below assume your terminal’s **current directory is this repo root** (`DICOM-Viewer/`), not a parent path on your PC.
+All commands below assume your terminal’s **current directory is this repo root** (`DICOMViewer/`), not a parent path on your PC.
 
 ---
 
 ## Project Structure
 
 ```
-DICOM-Viewer/
+DICOMViewer/
 ├── python/
 │   ├── loader.py       ← Load .dcm folder → 3D NumPy volume
 │   ├── display.py      ← Render slice views (interactive sliders)
