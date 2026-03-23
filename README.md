@@ -105,6 +105,12 @@ The script uses `dicomread` / `dicominfo` and writes the same `output/metadata.c
 
 ---
 
+## Results
+<img width="1902" height="706" alt="Screenshot 2026-03-21 165119" src="https://github.com/user-attachments/assets/a1a0b090-4cbc-469b-8c3d-07333f839070" />
+
+<img width="1902" height="705" alt="Screenshot 2026-03-21 165152" src="https://github.com/user-attachments/assets/c5ea082b-3640-48b2-bf36-fa65a4d1f127" />
+You can view all the images from the axial/saggital/cornal slice views and the slider can be used for easy viewing.
+
 ## Requirements
 
 | Package | Purpose |
